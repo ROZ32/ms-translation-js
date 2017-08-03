@@ -1,0 +1,19 @@
+{
+  "name": "ms-translation-js",
+  "version": "0.0.1",
+  "description": "Translation service by ms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROZ32/ms-translation-js.git"
+  },
+  "author": "oscar sanchez <hmax.bf4@gmail.com>",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/ROZ32/ms-translation-js/issues"
+  },
+  "homepage": "https://github.com/ROZ32/ms-translation-js#readme"
+}
